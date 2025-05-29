@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: QR File Transfer!
 ---
-For problems with the QR File Transfer App email us at jpdr.info@gmail.com.
+If you experience problems with the QR File Transfer App, please email us at jpdr.info@gmail.com.
